@@ -1,4 +1,7 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Website UIN Suska Riau
+  url: http://uin-suska.ac.id
+  
+ - title: Website Sistem Informasi
+    url: https://sif.uin-suska.ac.id/
