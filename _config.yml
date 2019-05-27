@@ -8,7 +8,7 @@ logo:               'assets/img/uin.jpg'
 background:         'assets/img/dunia.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://septyawahdanaa.github.io/dana.github.io/
+url:                https://septyawahdanaa.github.io
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -37,13 +37,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            https://twitter.com/septiyaw16
-facebook:           https://www.facebook.com/septya.wahdana
+twitter:            septiyaw16
+facebook:           septya.wahdana
 github-url:         https://septyawahdanaa.github.io
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          https://www.instagram.com/septyawahdana/
+instagram:          septyawahdana/
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
